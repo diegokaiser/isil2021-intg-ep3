@@ -9,6 +9,7 @@
         <module>create-appoinment</module>
         <module>patient</module>
         <module>notification</module>
+        <module>doctor</module>
     </modules>
 
     <parent>
